@@ -1,2 +1,2 @@
-# pwa-test
-Progressive Web App (https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) test
+# pwa-test-mesmer-gui
+Progressive Web App test for MESMER XML GUI.
